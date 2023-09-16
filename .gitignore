@@ -1,0 +1,48 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+
+# Celery
+celerybeat-schedule
+
+# Python wheel and distribution files
+*.egg
+*.egg-info
+dist/
+build/
+
+# Media and static files
+media/
+static/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# OS specific
+.DS_Store
+Thumbs.db

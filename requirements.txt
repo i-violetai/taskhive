@@ -1,0 +1,5 @@
+Django==5.1.4
+redis==5.2.1
+celery[redis]==5.4.0
+django-environ==0.11.2
+pillow==11.0.0
